@@ -1,7 +1,7 @@
 import Final from "./Final";
 import "./Item.css"
 
-function Item({data}){
+function Item({data,del}){
     console.log("-------------");
     console.log(data);
     
@@ -11,7 +11,7 @@ function Item({data}){
     return(
         <div className="item">
             {
-                data.map((value,index)=>  (<Final value={value} key={value.id}/>))
+                data.map((value)=>  (<Final value={value} key={value.id} del={del}/>))
             
                 
                 

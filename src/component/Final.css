@@ -1,13 +1,32 @@
 .box{
-    width: 500px;
+    width: 800px;
     height: 400px;
-    background-color: cadetblue;
+    background-color: rgba(74, 111, 128, 0.775);
     margin: 0 auto;
     border-radius: 4%;
     overflow: hidden;
     margin-bottom: 50px !important;
+    position: relative;
     
     
+}
+@media only screen and (max-width: 528px) {
+    .box{
+        width: 350px;
+        height: 280px;
+    }
+    .im{
+        width:180px !important ;
+        height: 80px !important;
+    }
+  }
+.bbb{
+    position: absolute;
+    right: 10px;
+    margin-top: 10px;
+    padding: 7px;
+    border-radius: 3px;
+    background-color: chartreuse;
 }
 span{
     color: blue;
