@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/city/static/css/main.59dc9dbb.css",
+    "main.js": "/city/static/js/main.8c174038.js",
+    "static/js/453.0147867b.chunk.js": "/city/static/js/453.0147867b.chunk.js",
+    "static/media/ladhak.jpg": "/city/static/media/ladhak.16d81d679b061333e458.jpg",
+    "static/media/jaipur.jpg": "/city/static/media/jaipur.b47243d9433ca64510e4.jpg",
+    "static/media/kasmir.jpg": "/city/static/media/kasmir.af8d98923a6963123aca.jpg",
+    "static/media/mmm.jpg": "/city/static/media/mmm.7e9df207a4bde0533f40.jpg",
+    "static/media/lucknow.jpg": "/city/static/media/lucknow.ea35ae154345120939a4.jpg",
+    "static/media/delhi.jpg": "/city/static/media/delhi.9b8c5377fa213b79eb90.jpg",
+    "static/media/goa.jpg": "/city/static/media/goa.bd47adc383ce3cfb494b.jpg",
+    "static/media/pune.jpg": "/city/static/media/pune.e8dd245b85982f725733.jpg",
+    "static/media/agra.jpg": "/city/static/media/agra.fa4aa6c0191016663e78.jpg",
+    "index.html": "/city/index.html",
+    "main.59dc9dbb.css.map": "/city/static/css/main.59dc9dbb.css.map",
+    "main.8c174038.js.map": "/city/static/js/main.8c174038.js.map",
+    "453.0147867b.chunk.js.map": "/city/static/js/453.0147867b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.59dc9dbb.css",
+    "static/js/main.8c174038.js"
+  ]
+}
